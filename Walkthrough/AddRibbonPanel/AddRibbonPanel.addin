@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>AddRibbonPanel</Name>
+        <Assembly>D:\RevitAPIDevelopersGuide\Walkthrough\AddRibbonPanel\bin\Debug\AddRibbonPanel.dll</Assembly>
+        <AddInId>F6F5000C-9E06-48DF-A52D-11B233824C72</AddInId>
+        <FullClassName>RevitAPIDevelopersGuide.Walkthrough.AddRibbonPanel</FullClassName>
+        <VendorId>FCk</VendorId>
+        <VendorDescription>Your Company Information</VendorDescription>
+    </AddIn>
+</RevitAddIns>
